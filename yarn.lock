@@ -5873,10 +5873,10 @@ vue-virtual-scroller@2.0.0-beta.8:
     "@vue/server-renderer" "3.4.21"
     "@vue/shared" "3.4.21"
 
-vuetify@^3.0.0-beta.4, vuetify@^3.4.0-alpha.1:
-  version "3.5.14"
-  resolved "https://registry.npmjs.org/vuetify/-/vuetify-3.5.14.tgz"
-  integrity sha512-bmfid7K4D+wPi9h7sK4PxjmIB2tBzNuqlW14cs30iQ7GAphEeo/HYwn6aEdNK/Na+imhti8CJDDqdGs6SEfyXQ==
+vuetify@^3.0.0-beta.4, vuetify@^3.7.0:
+  version "3.7.0"
+  resolved "https://registry.npmjs.org/vuetify/-/vuetify-3.7.0.tgz"
+  integrity sha512-x+UaU4SPYNcJSE/voCTBFrNn0q9Spzx2EMfDdUj0NYgHGKb59OqnZte+AjaJaoOXy1AHYIGEpm5Ryk2BEfgWuw==
 
 webidl-conversions@^3.0.0:
   version "3.0.1"

@@ -1,7 +1,7 @@
 <template>
   <NuxtLayout>
     <div class="mt-3 mb-3 text-center text-h5 font-weight-bold">
-      <h2>豊橋市東部</h2>
+      <h2>松山市高浜地区</h2>
     </div>
     <v-table class="mb-5" dense>
       <tbody>
@@ -53,7 +53,8 @@
 import { onMounted, ref } from "vue";
 
 const stations = ref([
-  { area: "浅野", id: 56, name: "平山池", rainfalls: 0 },
+  { area: "浅野", id: 71, name: "高浜保育園", rainfalls: 0 },
+  { area: "浅野", id: 72, name: "一丁目集会所", rainfalls: 0 }
 ]);
 
 const getBackgroundColor = (rainfall) => {
