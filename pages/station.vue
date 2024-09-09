@@ -77,7 +77,7 @@ onMounted(async () => {
   await loadStations();
 })
 const loadStations = async () => {
-  const { data: res } = await api('/rainfalls_latest/2', {});
+  const { data: res } = await api('/rainfalls_latest/92', {});
   JSON.parse(res.value.body).forEach((station) => {
     if (station.station_id == id.value) {
       rainfalls1.value = station.min10;
