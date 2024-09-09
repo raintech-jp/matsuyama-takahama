@@ -78,7 +78,7 @@ onMounted(async () => {
   await loadStations();
 })
 const loadStations = async () => {
-  const { data: res } = await api('/rainfalls_latest/2', {});
+  const { data: res } = await api('/rainfalls_latest/92', {});
   console.log(res.value.body)
   JSON.parse(res.value.body).forEach((station) => {
     console.log(station.station_id)

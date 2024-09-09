@@ -4,13 +4,13 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "BJtlCB_w.js",
+    "file": "DJzKZWHw.js",
     "name": "error-404",
     "src": "../../../node_modules/nuxt/dist/app/components/error-404.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_Jr2bHlKU.js",
-      "_BFRlZlST.js",
+      "_C8ZrpAOr.js",
+      "_CE6uKGt-.js",
       "../../../node_modules/nuxt/dist/app/entry.js"
     ],
     "css": [
@@ -28,12 +28,12 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "FRdUPJQS.js",
+    "file": "Bt0xR8Ar.js",
     "name": "error-500",
     "src": "../../../node_modules/nuxt/dist/app/components/error-500.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_BFRlZlST.js",
+      "_CE6uKGt-.js",
       "../../../node_modules/nuxt/dist/app/entry.js"
     ],
     "css": [
@@ -51,7 +51,7 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "KCnrfC3l.js",
+    "file": "CoRmHFlL.js",
     "name": "entry",
     "src": "../../../node_modules/nuxt/dist/app/entry.js",
     "isEntry": true,
@@ -91,55 +91,12 @@ const client_manifest = {
     "file": "VGrid.mP8hOfTX.css",
     "src": "_!~{00b}~.js"
   },
-  "_0WoVngM-.js": {
+  "_-LAJwcPB.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "0WoVngM-.js",
-    "name": "VContainer",
-    "imports": [
-      "../../../node_modules/nuxt/dist/app/entry.js",
-      "_C6c7KCXH.js"
-    ],
-    "css": [
-      "VContainer.DTzldEZ7.css"
-    ]
-  },
-  "VContainer.DTzldEZ7.css": {
-    "file": "VContainer.DTzldEZ7.css",
-    "resourceType": "style",
-    "prefetch": true,
-    "preload": true
-  },
-  "_BFRlZlST.js": {
-    "resourceType": "script",
-    "module": true,
-    "prefetch": true,
-    "preload": true,
-    "file": "BFRlZlST.js",
-    "name": "vue.f36acd1f",
-    "imports": [
-      "../../../node_modules/nuxt/dist/app/entry.js"
-    ]
-  },
-  "_BZDM-EKG.js": {
-    "resourceType": "script",
-    "module": true,
-    "prefetch": true,
-    "preload": true,
-    "file": "BZDM-EKG.js",
-    "name": "resizeObserver",
-    "imports": [
-      "../../../node_modules/nuxt/dist/app/entry.js"
-    ]
-  },
-  "_C6c7KCXH.js": {
-    "resourceType": "script",
-    "module": true,
-    "prefetch": true,
-    "preload": true,
-    "file": "C6c7KCXH.js",
+    "file": "-LAJwcPB.js",
     "name": "VGrid",
     "imports": [
       "../../../node_modules/nuxt/dist/app/entry.js"
@@ -154,27 +111,16 @@ const client_manifest = {
     "prefetch": true,
     "preload": true
   },
-  "_Jr2bHlKU.js": {
+  "_BFIx1TTZ.js": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "Jr2bHlKU.js",
-    "name": "nuxt-link",
-    "imports": [
-      "../../../node_modules/nuxt/dist/app/entry.js"
-    ]
-  },
-  "_NNZlELts.js": {
-    "resourceType": "script",
-    "module": true,
-    "prefetch": true,
-    "preload": true,
-    "file": "NNZlELts.js",
+    "file": "BFIx1TTZ.js",
     "name": "VTable",
     "imports": [
       "../../../node_modules/nuxt/dist/app/entry.js",
-      "_C6c7KCXH.js"
+      "_-LAJwcPB.js"
     ],
     "css": [
       "VTable.Dl8mxSOX.css"
@@ -186,20 +132,74 @@ const client_manifest = {
     "prefetch": true,
     "preload": true
   },
+  "_C8ZrpAOr.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "C8ZrpAOr.js",
+    "name": "nuxt-link",
+    "imports": [
+      "../../../node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "_CE6uKGt-.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "CE6uKGt-.js",
+    "name": "vue.f36acd1f",
+    "imports": [
+      "../../../node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
+  "_CPvomSMB.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "CPvomSMB.js",
+    "name": "VContainer",
+    "imports": [
+      "../../../node_modules/nuxt/dist/app/entry.js",
+      "_-LAJwcPB.js"
+    ],
+    "css": [
+      "VContainer.DTzldEZ7.css"
+    ]
+  },
+  "VContainer.DTzldEZ7.css": {
+    "file": "VContainer.DTzldEZ7.css",
+    "resourceType": "style",
+    "prefetch": true,
+    "preload": true
+  },
+  "_Ddq29aQU.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "file": "Ddq29aQU.js",
+    "name": "resizeObserver",
+    "imports": [
+      "../../../node_modules/nuxt/dist/app/entry.js"
+    ]
+  },
   "layouts/default.vue": {
     "resourceType": "script",
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "CxkBq7VX.js",
+    "file": "BtumPz06.js",
     "name": "default",
     "src": "layouts/default.vue",
     "isDynamicEntry": true,
     "imports": [
       "../../../node_modules/nuxt/dist/app/entry.js",
-      "_C6c7KCXH.js",
-      "_BZDM-EKG.js",
-      "_0WoVngM-.js"
+      "_-LAJwcPB.js",
+      "_Ddq29aQU.js",
+      "_CPvomSMB.js"
     ],
     "css": [
       "default.Bv_7cyTO.css"
@@ -216,16 +216,16 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "CV_jMNAC.js",
+    "file": "BDnwNu2F.js",
     "name": "index",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_Jr2bHlKU.js",
-      "_NNZlELts.js",
+      "_C8ZrpAOr.js",
+      "_BFIx1TTZ.js",
       "../../../node_modules/nuxt/dist/app/entry.js",
-      "_0WoVngM-.js",
-      "_C6c7KCXH.js"
+      "_CPvomSMB.js",
+      "_-LAJwcPB.js"
     ],
     "css": [
       "index.AW0gzmIu.css"
@@ -242,15 +242,15 @@ const client_manifest = {
     "module": true,
     "prefetch": true,
     "preload": true,
-    "file": "Ba5Lo0kK.js",
+    "file": "Co6f-w42.js",
     "name": "station",
     "src": "pages/station.vue",
     "isDynamicEntry": true,
     "imports": [
-      "_NNZlELts.js",
+      "_BFIx1TTZ.js",
       "../../../node_modules/nuxt/dist/app/entry.js",
-      "_C6c7KCXH.js",
-      "_BZDM-EKG.js"
+      "_-LAJwcPB.js",
+      "_Ddq29aQU.js"
     ],
     "css": [
       "station.Bog4O9HL.css"
